@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177645073769",
+    "firebase_url": "https://tonloc-e88a0.firebaseio.com",
+    "project_id": "tonloc-e88a0",
+    "storage_bucket": "tonloc-e88a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177645073769:android:a7d4af49ff617624",
+        "android_client_info": {
+          "package_name": "com.locoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177645073769-tknh5npe1tpvkvkf9l6ghkciqsgkrb93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.locoapp",
+            "certificate_hash": "a695f672ed0b7ef70369d8ee0743f53a5c2f6736"
+          }
+        },
+        {
+          "client_id": "177645073769-cm6ikt5gooigilb80r0vfc84rtoidtdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwSiR7I6hm-Jioj0RLceRFImAzRANA8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177645073769-cm6ikt5gooigilb80r0vfc84rtoidtdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
